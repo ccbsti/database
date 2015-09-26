@@ -1,0 +1,17 @@
+{
+    "name": "sti/database",
+    "description": "Classes úteis para lidar com o banco de dados!",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roger Risson da Silva",
+            "email": "rogerrisson@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">= 5.3.0"
+    },
+    "autoload": {
+        "psr-4": { "Sti\\": "./" }
+    }
+}
